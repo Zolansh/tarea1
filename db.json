@@ -1,0 +1,40 @@
+{
+    "producto":[
+        {
+            "Id":1,
+            "Descripcion":"Mouse",
+            "Precio":"30.00"
+        },
+        {
+            "Id":2,
+            "Descripcion":"Teclado",
+            "Precio":"50.00"
+        },
+        {
+            "Id":3,
+            "Descripcion":"Pantalla",
+            "Precio":"100.00"
+        },
+        {
+            "Id":4,
+            "Descripcion":"Memoria RAM",
+            "Precio":"120.00"
+        },
+        {
+            "Id":5,
+            "Descripcion":"Parlantes",
+            "Precio":"120.00"
+        },
+        {
+            "Id":6,
+            "Descripcion":"Disco Sólido",
+            "Precio":"120.00"
+        }
+        ,
+        {
+            "Id":7,
+            "Descripcion":"Disco Sólido",
+            "Precio":"120.00"
+        }
+    ]
+}
