@@ -1,16 +1,16 @@
 {
     "usuario":[
         {
-            "user":"alenka",
-            "password":"alenka2004"
+            "User":"alenka",
+            "Password":"alenka2004"
         },
         {
-            "user":"hurrem",
-            "password":"hurrem86"
+            "User":"hurrem",
+            "Password":"hurrem86"
         },
         {
-            "user":"luana",
-            "password":"luana2011"
+            "User":"luana",
+            "Password":"luana2011"
         }
     ]
 }
